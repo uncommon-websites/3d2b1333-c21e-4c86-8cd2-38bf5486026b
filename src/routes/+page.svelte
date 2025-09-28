@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="Find top candidates instantly"
+	subtitle="Skip the noise. Hire the best fast."
+	imageSrc="/generated/image-a-professional-hiring-manager-sits-at-a-.webp"
+	centered={true}
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://cdn.brandfetch.io/stripe.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/shopify.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/gitlab.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/spotify.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
