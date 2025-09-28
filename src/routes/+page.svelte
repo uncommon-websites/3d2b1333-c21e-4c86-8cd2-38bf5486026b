@@ -26,9 +26,8 @@
 />
 
 <Summary
-	generating
-	title="What we do"
-	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
+	title="Signal, not noise"
+	text="Stop wasting hours on resumes that lead nowhere. Our AI analyzes every applicant and surfaces the top 1% instantly—so your team can focus on interviews, not inboxes. Built for busy tech teams overwhelmed by applicants, we help you find exceptional talent without slowing down."
 />
 
 <Testimonials
