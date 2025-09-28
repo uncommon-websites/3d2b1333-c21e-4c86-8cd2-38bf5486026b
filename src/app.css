@@ -18,45 +18,28 @@
 --color-gray-800: oklch(0.268 0.007 34.298);
 --color-gray-900: oklch(0.216 0.006 56.043);
 --color-gray-950: oklch(0.147 0.004 49.25);
---color-primary-50: #f2f0ff;
---color-primary-100: #e7e3ff;
---color-primary-200: #d2ccff;
---color-primary-300: #afa5ff;
---color-primary-400: #8a75ff;
---color-primary-500: #675fec;
---color-primary-600: #5d4bd4;
---color-primary-700: #4f3bb3;
---color-primary-800: #413192;
---color-primary-900: #362c75;
---color-primary-950: #221a50;
---color-secondary-50: #f0fafe;
---color-secondary-100: #ddf3fc;
---color-secondary-200: #c1e9fa;
---color-secondary-300: #96dbf6;
---color-secondary-400: #68c1e0;
---color-secondary-500: #3ea5d1;
---color-secondary-600: #2985b1;
---color-secondary-700: #226b90;
---color-secondary-800: #205976;
---color-secondary-900: #1f4b64;
---color-secondary-950: #153042;
-
-/* Accent Colors */
---color-accent-yellow: #FFB200;
---color-accent-yellow-50: #fffdf0;
---color-accent-yellow-100: #fffae0;
---color-accent-yellow-200: #fff3c6;
---color-accent-yellow-300: #ffe99f;
---color-accent-yellow-400: #ffdb70;
---color-accent-yellow-500: #FFB200;
---color-accent-yellow-600: #d4960a;
---color-accent-yellow-700: #b0790a;
---color-accent-yellow-800: #8e5e0d;
---color-accent-yellow-900: #764e0e;
-
-/* Brand Colors */
---color-brand-dark: #1A1A1F;
---color-brand-light: #F2F4F6;
+--color-primary-50: oklch(0.985 0.001 106.423);
+--color-primary-100: oklch(0.97 0.001 106.424);
+--color-primary-200: oklch(0.923 0.003 48.717);
+--color-primary-300: oklch(0.869 0.005 56.366);
+--color-primary-400: oklch(0.709 0.01 56.259);
+--color-primary-500: oklch(0.553 0.013 58.071);
+--color-primary-600: oklch(0.444 0.011 73.639);
+--color-primary-700: oklch(0.374 0.01 67.558);
+--color-primary-800: oklch(0.268 0.007 34.298);
+--color-primary-900: oklch(0.216 0.006 56.043);
+--color-primary-950: oklch(0.147 0.004 49.25);
+--color-secondary-50: oklch(0.962 0.018 272.314);
+--color-secondary-100: oklch(0.93 0.034 272.788);
+--color-secondary-200: oklch(0.87 0.065 274.039);
+--color-secondary-300: oklch(0.785 0.115 274.713);
+--color-secondary-400: oklch(0.673 0.182 276.935);
+--color-secondary-500: oklch(0.585 0.233 277.117);
+--color-secondary-600: oklch(0.511 0.262 276.966);
+--color-secondary-700: oklch(0.457 0.24 277.023);
+--color-secondary-800: oklch(0.398 0.195 277.366);
+--color-secondary-900: oklch(0.359 0.144 278.697);
+--color-secondary-950: oklch(0.257 0.09 281.288);
 
 /* Typography */
 --font-family: "Inter";
