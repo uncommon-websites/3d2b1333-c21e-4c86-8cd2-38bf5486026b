@@ -26,60 +26,74 @@
 />
 
 <Summary
-	generating
 	title="What we do"
-	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
+	text="Stop wasting hours on resumes that go nowhere. Our AI-powered hiring assistant instantly analyzes large applicant pools and surfaces the top 1%—so your team can focus on interviews, not screening.
+
+More applications don't mean better candidates. We help hiring managers at fast-growing tech companies cut through the volume and zero in on applicants with the clearest signals of success—before your competitors do."
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Maya Chen",
+			position: "VP of Engineering",
+			company: "StreamTech",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"We reduced our time-to-hire from 6 weeks to 10 days while improving candidate quality by 40%. The AI immediately surfaced exceptional candidates we would have missed in traditional screening.",
+			image: "/generated/image-a-professional-asian-woman-tech-executiv.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Marcus Williams",
+			position: "Head of Talent Acquisition",
+			company: "Velocity Labs",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"This saved us $180K in the first quarter alone by eliminating wasted interviews with unqualified candidates. Our hiring accuracy went from 65% to 92% - we're finally hiring the right people fast.",
+			image: "/generated/image-a-professional-black-man-in-a-hiring-lea.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Sofia Rodriguez",
+			position: "Engineering Director",
+			company: "Apex Systems",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Before this, 80% of my team's time was spent screening resumes. Now we focus on interviewing only the top 1% candidates. It's transformed how we build our technical teams.",
+			image: "/generated/image-a-professional-latina-woman-engineering-.webp"
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Signal, not noise"
+	subtitle="Stop wasting hours on resumes that go nowhere. Our AI analyzes every applicant and surfaces the top 1% instantly."
 	features={[
 		{
-			title: "Streamlined Workflows",
+			title: "AI signal detection",
 			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+				"Our AI-native platform filters out unqualified candidates and highlights those with the clearest signals of success. Never miss your next top performer in the noise."
 		},
 		{
-			title: "Data Analysis",
+			title: "Built for high-volume recruiting",
 			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+				"Designed for fast-moving tech teams overwhelmed by applicant volume. Whether you're hiring 5 people or 500, we help you find exceptional talent without slowing down."
 		},
 		{
-			title: "Secure Collaboration",
+			title: "Pattern recognition that learns",
 			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+				"Unlike retrofitted hiring tools, our platform was designed from day one to zero in on what actually matters. It learns patterns, understands context, and gets smarter with every role."
+		},
+		{
+			title: "Make faster, more confident decisions",
+			description:
+				"You don't need more resumes—you need clarity. Our assistant cuts through the noise and recommends the right candidates right away, so you can move fast and never second-guess."
+		},
+		{
+			title: "Focus on interviews, not inboxes",
+			description:
+				"Stop spending 80% of your time screening unqualified candidates. Our AI does the heavy lifting so your team can focus on what matters most: great conversations with great people."
+		},
+		{
+			title: "No complex setup required",
+			description:
+				"Get started in minutes with no training needed. Just plug into your hiring stack and let the assistant do the heavy lifting while you focus on building your team."
 		}
 	]}
 />
